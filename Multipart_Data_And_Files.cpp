@@ -34,7 +34,7 @@ struct FileData {
 
  }
 
- string GetDocData (string DocName, FileData& DataSet1){
+ string GetDocData (string DocName, FileData& DataSet1){   
                                           /*
                                           In this program you take the data in the file and
                                           inputs it in a string so we can analyze it
